@@ -1,6 +1,7 @@
 const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
+  pathPrefix: '/gatsby_theme',
   siteMetadata: {
     title: 'Gatsby Serif Theme',
     description: 'my theme'
