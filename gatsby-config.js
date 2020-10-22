@@ -3,8 +3,8 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 module.exports = {
   pathPrefix: '/gatsby_theme',
   siteMetadata: {
-    title: 'Gatsby Serif Theme',
-    description: 'my theme'
+    title: 'KarFarm',
+    description: 'Sales automation comes to the automotive retail industry'
   },
   plugins: [
     'gatsby-plugin-sass',
@@ -43,9 +43,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [
-          'Playfair+Display:400,700'
-        ],
+        fonts: ['Poppins:400,700'],
         display: 'swap'
       }
     }

@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Completely Customizable",
+    "description": "The AI Assistant is fully customizable. Take full control over the outgoing chat messages to your clients.",
+    "image": "images/features/settings.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Detailed Analytics",
+    "description": "KarFarm's analytics platform gives you unprecedented levels of analytics in the automotive history.",
+    "image": "images/features/stats.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "History Records",
+    "description": "Say goodbye to bad CRM reporting from bad input from your sales staff.",
+    "image": "images/features/cloud.svg"
   }
 ]
